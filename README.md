@@ -1,0 +1,1 @@
+# Back-testing-ARIMA-GARCH-Strategy-on-the-Dow-Jones-Index-
